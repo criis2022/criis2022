@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="MENDOZA", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
@@ -34,7 +35,7 @@ https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD
 https://g2.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1498630325978611712/cM8F6aDq_400x400.jpg" group-title="NOTICIAS", CANAL 26
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="NOTICIAS", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24
@@ -263,6 +264,8 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV-avc1_2499968=10006
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/MTV-logo-500x281.png" group-title="MÚSICAS", MTV Musica
 https://edge3-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD-avc1_3000000=10004.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="MÚSICAS"
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1839508731_b2028000_sleng.m3u8
 
 
 
@@ -319,62 +322,76 @@ https://edge3-hr.cvattv.com.ar//live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-avc1_3000
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"group-title="PELICULAS", HBO EXTREME
 https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme-avc1_3450000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="PELICULAS", A3CINE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="PELICULAS", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/golden.png" group-title="PELICULAS", GOLDEN
+https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/43_.m3u8?token=c1O4RNzZBvl2LtBQBtWflQ&expires=1656756556&ip=190.122.182.107
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinear.png" group-title="PELICULAS"
+https://edge3-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-avc1_3000000=10004.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/goldenplus.png" group-title="PELICULAS"
+https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/42_.m3u8?token=cjECAWJS0HccgmW7E1J3kg&expires=1656758426&ip=190.122.182.107
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/goldenedge.png" group-title="PELICULAS"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=y5ODNryfiRUsoAGFJE7Mtg&expires=1656758688&ip=190.122.182.107
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 
+
+
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 1
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 1
 https://edge3-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_2499968=10001.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 2
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 2
 https://edge3-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3-avc1_3900000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 3
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 3
 https://edge3-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10009.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 4
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 4
 https://edge3-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 5 
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 5 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 6 
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 6 
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_2499968=10007.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w="  group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 7 
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w="  group-title="DEPORTES", SSIPTV ARG SPORTS 7 
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 8
 https://edge3-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-avc1_3900000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 9
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 9
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 10 
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 10 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 11
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 11
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 12
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 12
 http://edge-live34-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 13
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 13
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="CANALES DEPORTES", SSIPTV ARG SPORTS 14
-https://dtvott-abc.akamaized.net/dash_live_1057/dash/1057_DIRECTV_SPORTS_ARG-video=1386800-99403690022405.dash
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 14
+https://ed3.zorrohd.nl/live/flowitc91zh.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 15
-https://dtvott-abc.akamaized.net/dash_live_1063/dash/1063_DIRECTV_SPORTS_2-video=3838800-99403711049617.dash
+
+
 
 
 
@@ -436,11 +453,17 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC-avc1_3000000=10004
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1387580240973680642/1i1VD5oC_400x400.jpg" group-title="DOCUMENTALES", TEC TV  
 https://tv.initium.net.ar:3167/live/initiumlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVfK3dHb78rz6Lije27us54Lv8XSKbPalpuexGI9Aq1rdtYCRxNUnEJc4sGZ0E-JEMjhc&usqp=CAU" group-title="DOCUMENTALES", HGTV
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hgtv.png" group-title="DOCUMENTALES", HGTV
+https://edge3-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10002.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/8006/brand.gif?itok=ASNfuna_" group-title="DOCUMENTALES", Sun Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES", DISCORVERY MAX
+https://fm75ujfuezx4vjed.cdnexpress37.net:8443/hls/gvz5ao9w9ahax5.m3u8?s=eS7t8pUx_IgWVMuhCZEBIg&e=1656768871
+
+#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="DOCUMENTALES"
+https://cda2.alsolnet.com/elrural/live/chunklist_w1362100895.m3u8
 
 
 
@@ -448,7 +471,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Chan
 
 
 #EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="RELIGION", EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/640/chunklist.m3u8
+https://edge3-hr.cvattv.com.ar/live/c6eds/EWTN/SA_SAGEMCOM/EWTN-avc1_1532000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="RELIGION", ORBE 21  
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -473,19 +496,8 @@ http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/venus.png" group-title="ADULTO 18", VENUS
+https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus-avc1_1532000=10004.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/playboy.png" group-title="ADULTO 18"
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy-avc1_1499968=10001.m3u8

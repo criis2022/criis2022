@@ -45,14 +45,12 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
-#EXTINF:-1 tvg-id="DTV.ar" tvg-country="AR" tvg-logo="https://dtv.hcdn.gob.ar/system/modules/ar.gov.hcdn/resources/img/DTV/logo-DTV.png" group-title="NOTICIAS", DIPUTADOS TV
-https://www.youtube.com/watch?v=1-5ycDIKmTA/%203DZY%20HF3J%201W7E/720P/PLAYLIST.M3U8
 
 
 #EXTINF:-1 tvg-id="LANACION.AR" tvg-logo="https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg" group-title="NOTICIAS", LA NACION
 https://edge3-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://pbs.twimg.com/profile_images/1498403281697189892/SDhSBkrJ_400x400.jpg" group-title="NOTICIAS", TELESUR VELEZUELA, 
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://pbs.twimg.com/profile_images/1498403281697189892/SDhSBkrJ_400x400.jpg" group-title="NOTICIAS", TELESUR VELEZUELA
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
  
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS", RT
@@ -74,7 +72,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-id="ARGENTINISIMA.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-Dtzw9n3DOtA/YC__fv9SzaI/AAAAAAAA8Lk/9_2dKEO7SckqsiokeJsAaEvQvO_WfXa8wCLcBGAsYHQ/s719/Arg-Sat.png"group-title="NOTICIAS"
-https://edge3-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_SAGEMCOM/Argentinisima-avc1_1200000=10004.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpYFyzEa8eWhRy2GQTOn0So5Qfmmnz1v6FbU4kUhSC4_xCmHlXvuZ78eRBeRuKKbzZpe42EdEkQmoGfWQ7M0pu_jnpFVQ4gXexT_eSlfEKPgIiOSAGoVSxC6FpGvx08A8c25FTJbBgyoYLZDZ9-MjjhPgXuaBpvbKRM2wYdK2n9kLdejmXPhP3HsoFgVKAALyRxZq8DvxH78ilr95CXqPOAmUGxBYVE2VaKtRSOYwjCBP5jldqtPhAs_QnSG9kJ8zm0C-8AmzyPBuqducfN5WlBi6mS03n6fAVFZg3RIVHq8DQCRaDsUkehUHbh8s9He-dIBvxlBg_UkQw2C1RNkiRlrdCkJWash6x5JJT-SvEIQoGz3Q_WRhWovh75Ohj65fhlvS8uy41dCtRRaU0XxvUxCZ2_rnNgjmAvpQB3AQ4zibC_NVVZoyA9idf4bHcGMFSxIWK8PzxwKUl1LF2Im3asR6Cuoha5aT6yFkb8aPBivqG1yJVdd7WdoQUhC6MDiV8nPVosnEtj00VT_D_SxiRy5YmnmXiMglFukNJmLJgHuTjuhjLd8juSewcI0D_57P1iJN7Tb7NpJH5GO-glnoNWs1fIVMYK79jIxIBVqGVsYQQjMofIQb3bjtW9aozJNwu9bIrEzKTrVFWEDr8KR06VbQUEnQmxUuhqxgxaVr9rLxldRQ2Sqa7gxmYcRshJyosz1j1Qgs9weJ-BKQXZGoijS3i2xOezeffmti5TLgPZWMB1x3aeh39RT0-yH4b87J4YN_wBxl2IZ8QX4bMXsmaJkOZI6V9uASxcUwoM-MqJlmYoeUXh_eNkoXYMnryYhYdWOlfGAh4CR0-K3zSbRUuSKKplZAl2D5cnOkDZye7WWsG9GXueARqIaDMt75c-Ik-PPtsft9yABKglldS13ZXN0LTIwjgQ.m3u8
 
 #EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="NOTICIAS",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -168,10 +166,10 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="VARIEDADES", CANAL DE LA CIUDAD
-https://g3.mc-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
+https://g5.mc-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Ciudad_Magazine#/media/Archivo:Ciudad_magazine_logo.png"group-title="VARIEDADES", MAGAZINE TV
-https://edge3-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_2499968=10000.m3u8
+https://g3.mc-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1FZ4wTl6xyp3al5jbM33MWK5e73jnULEwgZPbILkpG5O_LWirx2FTLx0BGQtrFqv24go-bxp9n4gYJZw893Lm6RIAjGpWjWImEuC5bONs92Fi1W02oaZtpFgbyD4ilboB1doWCxdFd-oAtkGMd-z5q1mzTIDfIvOto6RDq1tqknuNEYTjrMeFuxZT/s1600/ver-el-gourmet-en-vivo.jpg" group-title="VARIEDADES",
 https://edge3-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10004.m3u8

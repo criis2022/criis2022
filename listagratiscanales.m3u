@@ -2,10 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="MENDOZA", CANAL 10 SAN RAFAEL
-https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
+https://streamcasthd.com:1936/tvdiez/tvdiez/chunklist_w1569906524.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="MENDOZA", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-siete.png" group-title="MENDOZA", CANAL 7 MENDOZA
+https://www.youtube.com/watch?v=wFVRGjzEqOc/dash.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
@@ -24,12 +27,7 @@ https://streaming.jtamendoza.com/hls/test.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP
+#EXTINF:-1 tvg-id="IP.AR" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD
@@ -46,6 +44,10 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+#EXTINF:-1 tvg-id="DTV.ar" tvg-country="AR" tvg-logo="https://dtv.hcdn.gob.ar/system/modules/ar.gov.hcdn/resources/img/DTV/logo-DTV.png" group-title="NOTICIAS", DIPUTADOS TV
+https://www.youtube.com/watch?v=1-5ycDIKmTA/%203DZY%20HF3J%201W7E/720P/PLAYLIST.M3U8
+
 
 #EXTINF:-1 tvg-id="LANACION.AR" tvg-logo="https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg" group-title="NOTICIAS", LA NACION
 https://edge3-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion-avc1_3000000=10004.m3u8
@@ -77,12 +79,17 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_SAGEMCOM/Argentinisim
 #EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="NOTICIAS",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="NOTICIAS" , RAI NEWS
+https://streamcdnd1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title="NOTICIAS", HISPAN TV
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1431734816_b644100_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="NOTICIAS", 7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOTICIAS",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 
 
@@ -118,11 +125,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="INFANTIL", PAKA PAKA
 https://edge3-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA-avc1_3000000=10004.m3u8
 
@@ -135,13 +137,13 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChan
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/362/350/png-clipart-disney-junior-logo-disney-la-chaine-the-walt-disney-company-graphics-disney-junior-logo-television-text.png" group-title="INFANTIL" DISNEY JUNIOR
 https://edge3-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/791-7911947_1-tvg-logo-https-nickelodeon-foxtel.png" group-title="INFANTIL", NICK
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/791-7911947_1-tvg-logo-https-nickelodeon-foxtel.png" group-title="INFANTIL", NICKLODEON
 https://edge3-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-500x315.png" group-title="INFANTIL", NICK JUNIOR
 https://edge3-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.DK_FullLogo_Hero_Flat.png.a33570ce697f0b8a726d415dd414da25.png" group-title="INFANTIL", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3qEDaRM02L4/YT48fWBTHeI/AAAAAAAAAKg/rXQ-f423gtIFwjryayxVxRETuTqVVB6GwCLcBGAsYHQ/s100/Discovery_Kids.png" group-title="INFANTIL", DISCORVERY KIDS
 https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/781/97/png-transparent-disney-channel-television-channel-the-walt-disney-company-disney-xd-tv-news-television-text-logo.png" group-title="INFANTIL" DISNEY XD
@@ -165,19 +167,17 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="VARIEDADES", CANAL DE LA CIUDAD
 https://g3.mc-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Ciudad_Magazine#/media/Archivo:Ciudad_magazine_logo.png"group-title="VARIEDADES", MAGAZINE TV
 https://edge3-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_2499968=10000.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1FZ4wTl6xyp3al5jbM33MWK5e73jnULEwgZPbILkpG5O_LWirx2FTLx0BGQtrFqv24go-bxp9n4gYJZw893Lm6RIAjGpWjWImEuC5bONs92Fi1W02oaZtpFgbyD4ilboB1doWCxdFd-oAtkGMd-z5q1mzTIDfIvOto6RDq1tqknuNEYTjrMeFuxZT/s1600/ver-el-gourmet-en-vivo.jpg" group-title="VARIEDADES",
+https://edge3-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10004.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243148349932527616/tS-MzAHw_400x400.jpg" group-title="VARIEDADES", VOLVER
-http://edge-live34-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
+https://edge3-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver-avc1_1532000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1280970964256337920/mxW60cm-_400x400.jpg" group-title="VARIEDADES", E! ENTERTAINMENT
 https://edge3-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television-avc1_3000000=10004.m3u8
@@ -187,6 +187,9 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="VARIEDADES", GLITZ
 https://edge3-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz-avc1_1532000=10004.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CANAL ESTRELLA DE MEXICO
+https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas-avc1_1532000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/100px-Pasiones_Tv_logo.svg.png" group-title="VARIEDADES", PASIONES TV
 https://edge3-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones-avc1_1200000=10004.m3u8
@@ -209,7 +212,7 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy-avc1_2499968=100
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/800px-Comedy_Central_2018.svg.png" group-title="VARIEDADES", COMEDY CENTRAL
 https://edge3-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png" group-title="VARIEDADES", TBS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZSP9W8hBmJmpotMZufClgsV6rRFYkfYpPCgZA7Udv1yNTBdGR2PKdm71dzvzfU4oCGERUc0eOyievxXIOi_CAfr6nX79DJWaHdzQGrh43K1ptFjw6P7MzS_wmEgIwQpTNLZhLNLAnf835nzW5-hz2Rw-1_UsybOL1SBEDEpiq9n4wKqr6Wnq0CtvN/s1600/ver-tbs-en-vivo.jpg" group-title="VARIEDADES", TBS
 https://edge3-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="VARIEDADES", FX HD
@@ -230,17 +233,12 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries-avc1_2
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" group-title="VARIEDADES", AMC
 https://edge3-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC-avc1_3900000=10004.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-D51GGfe_xi8/YUDr0Xww3QI/AAAAAAAAAQA/PYMdVHsBQlo2fDKdWMn17F7xyGQQHSR3QCLcBGAsYHQ/h120/FX.png" group-title="VARIEDADES", FX HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD-avc1_3900000=10009.m3u8
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MÚSICAS", TOP LATINO TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1437826966.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="MÚSICAS", VH1
-https://content-asae1-up-1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/e.m3u8?pbs=e13ffb7794f842d190d8e114ceed2883
 
 
 #EXTINF:-1 tvg-logo="https://musicaclasica.com.ar/wp-content/uploads/LOGO-ALLEGRO-HD-21.png" group-title="MÚSICAS", Allegro Musica
@@ -264,39 +262,41 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV-avc1_2499968=10006
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/MTV-logo-500x281.png" group-title="MÚSICAS", MTV Musica
 https://edge3-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="MÚSICAS"
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1839508731_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="MÚSICAS", MUSICTOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w504553514_b2028000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", tierramia tv
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w30097576_b1864000_sleng.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" group-title="PELICULAS", CINEMAX
-https://edge3-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_2499968=10001.m3u8
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_2499968=10001.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/h120/TCM.png" group-title="PELICULAS", TCM
 https://edge3-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fdvJf2MjlgQ/YT5Q_HnjLrI/AAAAAAAAAOI/Wp9FNV3R06cBaDSCDcUD1sTJZwNT0rqgwCLcBGAsYHQ/h120/I.Sat.png"group-title="PELICULAS", I.SAT
-https://edge3-hr.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT-avc1_1532000=10004.m3u8
+https://edge1-sl.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT-avc1_1532000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-"group-title="PELICULAS", TNT
-https://edge3-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_3450000=10010.m3u8
+https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT-avc1_3000000=10011.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOtlElc9EEAfimTeGmFQdORH-AVJz46cI3JShrJxZPgW52wwd9OwSQ7ntgs3znOF_vXM_CWzS0GcatQdJbpNwbIvI6uqr0y1Lf076rvyLjLlidUM4Hryl4cNerTZshXS_lD15hCso0DfuaOT5um15ChkkSmQqsPfzz-ZQEgN-w6TvPV9oHoqAmIy7P/s1600/ver-studio-universal-en-vivo.jpg"group-title="PELICULAS", STUDIO UNIVERSAL
-https://edge3-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10004.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhH2Fw23E5sQ-uHD2pv35od_5I0aWDiAdXKIBD7OCRCkAGXWpIdpNxGstdL7U1kTxGNYSoSle5WzjDSaHYn_Qj3UlubEwWIfZxn2J28mK5vJQe3m09EBC71ecxTuHOAxTljBWzBovveXe08STKrdlloRDtrbZ46LIHyut4rp9nEuEZdZTNE5Ls8cHUG"group-title="PELICULAS", SPACE TV
 https://edge3-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_3900000=10002.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2022/01/Paramount-Pictures-Logotipo-1967.jpg" group-title="PELICULAS", PARAMOUNT
-https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+https://edge3-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="PELICULAS", A&E
 https://edge-live11-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="PELICULAS", Cinecanal
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+https://edge3-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_3900000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"group-title="PELICULAS", HBO
 https://edge3-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_3900000=10004.m3u8
@@ -319,76 +319,63 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi-avc1_3
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png"group-title="PELICULAS", HBO POP
 https://edge3-hr.cvattv.com.ar//live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"group-title="PELICULAS", HBO EXTREME
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"group-title="PELICULAS", HBO XTREME
 https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme-avc1_3450000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="PELICULAS", A3CINE
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/golden.png" group-title="PELICULAS", GOLDEN
-https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/43_.m3u8?token=c1O4RNzZBvl2LtBQBtWflQ&expires=1656756556&ip=190.122.182.107
-
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinear.png" group-title="PELICULAS"
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinear.png" group-title="PELICULAS", cine ar
 https://edge3-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-avc1_3000000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/goldenplus.png" group-title="PELICULAS"
-https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/42_.m3u8?token=cjECAWJS0HccgmW7E1J3kg&expires=1656758426&ip=190.122.182.107
-
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/goldenedge.png" group-title="PELICULAS"
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=y5ODNryfiRUsoAGFJE7Mtg&expires=1656758688&ip=190.122.182.107
 
 
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/w480/ver-espn-en-vivo.jpg" group-title="DEPORTES", ESPN 
+https://edge3-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-avc1_2499968=10007.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/w480/ver-espn-2-en-vivo.jpg" group-title="DEPORTES", ESPN 2
 https://edge3-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_2499968=10001.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/w480/ver-espn-3-en-vivo.jpg" group-title="DEPORTES", ESPN 3
 https://edge3-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3-avc1_3900000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eVGhEslVRUtOKTL0toI1XZjUGZ0bzKP_JvSGrPfN9Id4j7UQpIM-oz1AmnHHLkdpb8eTzU0V4H530wfEzLWXqCGVkgqlB0RP5KHUkK0OATPoPKhUBKC8EcuHnaVGk30sv8Igl5IO4nUZ89pY0x_fqkfAkAhi4hrdn_YngZ5GfWX5A47TygmmTIfa/w480/ver-espn-4-en-vivo.jpg" group-title="DEPORTES", ESPN 4
 https://edge3-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10009.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGJTYtjSZqoPw6hemNUPQL3K0tBW-yr0t6leey5MEgQwfE0NDVxGZIt7cGHBUrhWsz7Nj2s1ZmYP5i92cFkk7hZhM65yTA9pYWylolhylNtAyc36d3lgvwDDHn3Z5aAciJlq9kKGogt9XMtQ0SDA4ZPNnS60nxwZTQoyExe8BQ_yJ7wGhQ2pRWc26/w480/ver-espn-extra-en-vivo.jpg" group-title="DEPORTES", ESPN EXTRA
 https://edge3-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 5 
-https://edge-live15-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/w480/tnt-sports-en-vivo.jpg" group-title="DEPORTES", TNT SPORTS 
+https://edge3-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD-avc1_4999936=10014.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 6 
-https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_2499968=10007.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wJDH8KjbQFSLQ7RdLmFUxGanTfGeg2Hc5NLDOj5WTWGHgCsga1NabFreD5Gjl6vU2PVibeAF_YUUyqy-UHAhaptnAM80XxR0jVztW03YBqe2Ttm-m6vTr26A_qETa88vy63CnFdhIZ8oE6Rp8ZeLpHvqEr876OF1sbxokLgbRa68F82hurrUxgfE/w480/ver-espn-premium-en-vivo.jpg" group-title="DEPORTES", ESPN PREMIUM 
+https://edge3-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_4999936=10000.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w="  group-title="DEPORTES", SSIPTV ARG SPORTS 7 
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hHI4-9I3JuE/YT5ManmHKkI/AAAAAAAAANI/yIsahDthZkkpCzHIYuMn4nC7D6QXk9AbgCLcBGAsYHQ/w480/Fox_Sports.png"  group-title="DEPORTES", FOX SPORTS
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-avc1_2499968=10001.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 8
-https://edge3-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-avc1_3900000=10004.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qFsYZaIjozo/YT5Mwq2o6FI/AAAAAAAAANQ/rQxMUo7-REozgCIiOzVakG8Ia2C5bCb-wCLcBGAsYHQ/w480/Fox_Sports_2.png" group-title="DEPORTES", FOX SPORTS 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-avc1_3900000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 9
-https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/w480/ver-fox-sports-3-en-vivo.jpg" group-title="DEPORTES", FOX SPORTS 3
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_3900000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 10 
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-90LMQCmhDqo/YT5KvolVhyI/AAAAAAAAAMw/XeQETtspZTM8h_nFKLr1v3bSgpwr2hJ_wCLcBGAsYHQ/w480/tycsports.png" group-title="DEPORTES", TYC SPORTS 10 
+https://edge3-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport-avc1_2499968=10000.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 11
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-J4ivQJ4sYpY/Yf-_VC6GTvI/AAAAAAAAAXQ/jd0R2yos4CEfA8PT86tCTO_bhQEc-8UeQCNcBGAsYHQ/w480/ver-depor-tv-en-vivo.png" group-title="DEPORTES", DEPORTV 
+https://edge3-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD-avc1_3900000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 12
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/america-sports.png" group-title="DEPORTES", AMERICA SPORTS
 http://edge-live34-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 13
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-garage-tv.png" group-title="DEPORTES", GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w222280047_b746000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 14
-https://ed3.zorrohd.nl/live/flowitc91zh.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hQ0XDLC8nTQ/YfOioYBNPFI/AAAAAAAAAVg/0oKPg_FYFdYgYhRQadUEvDqsJy9lNa3fQCNcBGAsYHQ/w480/ver-directv-sports-en-vivo.png" group-title="DEPORTES", DIRECTV SPORTS
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 
 
@@ -406,19 +393,19 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a-avc1_30000
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8SoJHd7OL7dtAu7Ct7AMp_KihkkJ_X-cS9etgy6z2iepTLvMjGt-Tymv60JcWgV1SKgMrx5Jo49I4eHGiZbS3qZYwNf7CvNXFam_aZYEjOeUBBdJR0BiyZUFGawEwWiPGI0FBEMvucX4lNpqNlrrj9jviXw1QRXm2GU8K5eC0LzP8gUn0LvheQ_nP/s1600/ver-discovery-turbo-en-vivo.jpg" group-title="DOCUMENTALES", DISCORVERY TURBO
-https://edge3-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-avc1_2499968=10011.m3u8
+https://edge3-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-avc1_4999936=10010.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/h1280/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="DOCUMENTALES", DISCORVERY CHANNEL
-https://edge3-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-avc1_3900000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-avc1_3900000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wryVFOOdjQM/YaQqv6n5dVI/AAAAAAAAATU/nGSHo1MU9RwdXCT0jf1FXOFqrT2568YCwCLcBGAsYHQ/h120/ver-national-geographic-ghannel-hd-en-vivo.png" group-title="DOCUMENTALES", NATIONAL GEOGRAPHIC
-https://edge3-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_3000000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8LJFFTHSAl0/Yfxj8UelGGI/AAAAAAAAAXI/TayS8h7aGXg2b4SA5n_gSgUuqk2F6zzHgCNcBGAsYHQ/h1280/ver-natgeo-wild-en-vivo.png" group-title="DOCUMENTALES", NAT GEO WILD HD
 https://edge3-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/s1600/ver-animal-planet-en-vivo.jpg" group-title="DOCUMENTALES", ANIMAL PLANET
-https://edge3-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-avc1_3000000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/0-T6vH-lEpo3EbGW9/s1600/ver-love-nature-en-vivo.jpg" group-title="DOCUMENTALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
@@ -427,22 +414,22 @@ https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" group-title="DOCUMENTALES", Investigation Discovery (ID)
-https://edge3-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID-avc1_3000000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8tgC66r3_4k/YfxhkHAUE7I/AAAAAAAAAW4/J02JAZamQDQfcI6tjiZb-yTtDBdudM_1wCNcBGAsYHQ/h1280/ver-discovery-h%2526h-en-vivo.png" group-title="DOCUMENTALES", DISCORVERY H&H
-https://edge3-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-avc1_4999936=10006.m3u8
+https://edge3-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-avc1_4999936=10006.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-500x313.png" group-title="DOCUMENTALES", HISTORY HD
-https://edge3-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_3000000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Liugr9oW0N8/YfxgBg8Sc9I/AAAAAAAAAWw/rkP5fEKkLJIUcvdkkVv00NO5ixrrdi44wCNcBGAsYHQ/h1280/ver-history-channel-2-en-vivo.png" group-title="DOCUMENTALES", HISTORY 2 HD
-https://edge3-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_3000000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3qdP4GrpLHPleke6dHReWi6npIg2BxtCvjBriYV2Po8iW9uz3i92dRi48TXkdMZUROhuFLKPU3aRCGat4wHzrPTvNdLb6swemyOQlu8i2g1M0Bxs0ii8QzIigNcI6dqVAfRL6PnimMIpESQI9liPVTMqVYZfFELzwOnmx1Q2xsZV6IiVG0aoRX6hb/s1600/ver-discovery-world-en-vivo.jpg" group-title="DOCUMENTALES", DISCORVERY WORD HD
-https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD-avc1_3000000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6l8Q7zOlVFItiuY6a38iKihcTNUrlcliGNSjzDJsqhuSlOOgenOvgsX3eiYK3skvseVM0jjNunqPQoMZ2YBxcFyH2bxz-w-Hqdvd5P6RhaPAmJLQFTntnBuWo4K4X0oloe2yD9_IWobUyzMvVysMNFb3NkrIUdA7UAJTMeP3Hf-cYnR2IrT-ywhG8/s1600/ver-discovery-theater-en-vivo.jpg" group-title="DOCUMENTALES", DISCORVERY THEATER HD
-https://edge3-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD-avc1_3000000=10004.m3u8
+https://edge3-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD-avc1_3000000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW8YldK-AqonPdZNgaMZG26OR7gXuKYVGudGmfmv0Nv6X_lCm0MFsEnFWx2pcyfZztqwCG6NeD9qweHOY2IDxmpuQtdAFfpMCFi4gBrCxJUJvZq_wSNgdXFw1PiFPO0jAZV0wM5RBaVBrl0cTtoe-bUnvjelZWCZ9FOV7d91j1tGLET0vtcMlYz9Jl/s1600/ver-discovery-science-en-vivo.jpg" group-title="DOCUMENTALES", DISCORVERY SCIENCE HD
 https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science-avc1_2499968=10008.m3u8
@@ -453,17 +440,17 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC-avc1_3000000=10004
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1387580240973680642/1i1VD5oC_400x400.jpg" group-title="DOCUMENTALES", TEC TV  
 https://tv.initium.net.ar:3167/live/initiumlive.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png" group-title="DOCUMENTALES", MIRADOR TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hgtv.png" group-title="DOCUMENTALES", HGTV
 https://edge3-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10002.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/8006/brand.gif?itok=ASNfuna_" group-title="DOCUMENTALES", Sun Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES", DISCORVERY MAX
-https://fm75ujfuezx4vjed.cdnexpress37.net:8443/hls/gvz5ao9w9ahax5.m3u8?s=eS7t8pUx_IgWVMuhCZEBIg&e=1656768871
-
-#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="DOCUMENTALES"
-https://cda2.alsolnet.com/elrural/live/chunklist_w1362100895.m3u8
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="DOCUMENTALES", RURAL TV
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 
 
@@ -492,12 +479,11 @@ http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/venus.png" group-title="ADULTO 18", VENUS
 https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus-avc1_1532000=10004.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/playboy.png" group-title="ADULTO 18"
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/playboy.png" group-title="ADULTO 18", PLAY BOY
 https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy-avc1_1499968=10001.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/sextreme.png" group-title="ADULTO 18", SEX STREME
+https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme-avc1_1532000=10004.m3u8

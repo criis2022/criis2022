@@ -49,9 +49,6 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
-#EXTINF:-1 tvg-id="DTV.ar" tvg-country="AR" tvg-logo="https://dtv.hcdn.gob.ar/system/modules/ar.gov.hcdn/resources/img/DTV/logo-DTV.png" group-title="NOTICIAS", DIPUTADOS TV
-https://www.youtube.com/watch?v=1-5ycDIKmTA/%203DZY%20HF3J%201W7E/720P/PLAYLIST.M3U8
-
 
 #EXTINF:-1 tvg-id="LANACION.AR" tvg-logo="https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg" group-title="NOTICIAS", LA NACION
 https://edge3-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
@@ -347,7 +344,7 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="PELICULAS", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinear.png" group-title="PELICULAS", cine ar
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinear.png" group-title="PELICULAS", CINE AR
 https://edge3-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8  
 
 
